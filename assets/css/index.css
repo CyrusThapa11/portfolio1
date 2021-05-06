@@ -231,11 +231,11 @@ img {
 .home__profession {
   font-size: var(--small-font-size);
   color: var(--first-color-dark);
-  margin-bottom: var(--mb-5);
+  margin-bottom: var(--mb-3);
 }
 
 .home__social {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 .home__social-link {
   display: inline-flex;
@@ -357,19 +357,19 @@ img {
 }
 
 .skills__html {
-  width: 80%;
+  width: 75%;
 }
 .skills__js {
-  width: 70%;
+  width: 60%;
 }
 .skills__react {
-  width: 85%;
+  width: 55%;
 }
 .skills__exp {
-  width: 80%;
+  width: 65%;
 }
 .skills__node {
-  width: 87%;
+  width: 60%;
 }
 
 .skills__mdb {
@@ -747,7 +747,7 @@ img {
   }
 
   .home__container {
-    height: 100vh;
+    height: 50vh;
   }
 
   .section {
